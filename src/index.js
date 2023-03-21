@@ -17,3 +17,4 @@ console.log("final push from Bill")
 console.log("sorry that was my bad")
 //should be fixed now and under src
 console.log("working with nodemon")
+console.log("Can you see this charlie")
