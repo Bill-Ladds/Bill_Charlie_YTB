@@ -32,3 +32,10 @@ console.log("Just practice")
 //Don't mind me, just practicing the commands g
 console.log("looking forward to subway!")
 //Sheeeeesh that's made me hungry, might have to hit the dairy for lunch
+console.log("subway")
+/**
+ * herb and cheese
+ * riblet
+ * cheese
+ * sweet chilli mayo
+ */
