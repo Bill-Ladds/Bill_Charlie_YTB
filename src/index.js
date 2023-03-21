@@ -8,3 +8,9 @@ console.log("Pair Coding")
 console.log("Hey Bill")
 console.log("Hey Charlie, you forgot to add comments")
 //Just like this with the double slash my man
+/**
+ * hi
+ * this
+ * is a multi
+ * line comment yo
+ */
