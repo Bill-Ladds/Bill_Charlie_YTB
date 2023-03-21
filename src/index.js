@@ -10,3 +10,5 @@ console.log("Hey Charlie, you forgot to add comments")
 //deleted comments to clear up console
 console.log("Cleared the console")
 console.log("working with nodemon")
+console.log("hello")
+//have pulled
