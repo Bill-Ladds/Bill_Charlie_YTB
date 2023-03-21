@@ -14,3 +14,9 @@ console.log("Hey Charlie, you forgot to add comments")
  * is a multi
  * line comment yo
  */
+console.log("Loves a comment")
+/**
+ * crazy man
+ * you can straight up just add whatever in these bad boys
+ * what a treat
+ */
