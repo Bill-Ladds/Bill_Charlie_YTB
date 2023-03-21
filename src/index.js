@@ -12,3 +12,5 @@ console.log("Cleared the console")
 console.log("working with nodemon")
 console.log("hello")
 //have pulled
+console.log("final push from Bill")
+//Good job, charlie
