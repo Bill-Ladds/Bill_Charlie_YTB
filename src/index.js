@@ -6,3 +6,5 @@ console.log("Pair Coding")
  * This is a pair coding test
  */
 console.log("Hey Bill")
+console.log("Hey Charlie, you forgot to add comments")
+//Just like this with the double slash my man
