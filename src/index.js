@@ -18,3 +18,5 @@ console.log("sorry that was my bad")
 //should be fixed now and under src
 console.log("working with nodemon")
 console.log("Can you see this charlie")
+// test log for repetition
+console.log("Make sure Nodemon is running")
